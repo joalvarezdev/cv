@@ -1,0 +1,258 @@
+{
+    "basics": {
+      "name": "Joaquin Ezequiel Alvarez",
+      "label": "Backend Developer",
+      "image": "https://avatars.githubusercontent.com/u/56695905?v=4",
+      "email": "alvarez.joaquinez@gmail.com",
+      "phone": "(+54) 223 6680512",
+      "url": "",
+      "summary": "+3 años de experiencia como Desarrollador Backend. Siempre estoy buscando nuevos retos y oportunidades de aprendizaje que me permitan crecer profesionalmente y contribuir al éxito de los proyectos en los que trabajo.",
+      "location": {
+        "address": "",
+        "postalCode": "7600",
+        "city": "Mar del Plata",
+        "countryCode": "AR",
+        "region": "Buenos Aires"
+      },
+      "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "joalvarezdev",
+                "url": "https://www.linkedin.com/in/joalvarezdev"
+            },
+            {
+                "network": "GitHub",
+                "username": "joalvarezdev",
+                "url": "https://github.com/joalvarezdev"
+            }
+        ]
+    },
+    "work": [
+      {
+        "name": "Infosis",
+        "position": "Backend Developer",
+        "url": "https://infosis.tech/",
+        "startDate": "2022-05-01",
+        "endDate": null,
+        "summary": "Una descripcion del trabajo realizado en la empresa",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Infosis",
+        "position": "Backend Developer",
+        "url": "https://infosis.tech/",
+        "startDate": "2022-05-01",
+        "endDate": null,
+        "summary": "Una descripcion del trabajo realizado en la empresa",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Infosis",
+        "position": "Backend Developer",
+        "url": "https://infosis.tech/",
+        "startDate": "2022-05-01",
+        "endDate": null,
+        "summary": "Una descripcion del trabajo realizado en la empresa",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Jira Cloud",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Java",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Spring Boot",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Maven",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Gradle",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Docker",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Docker-Compose",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Vim",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Bash",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "isActive": true,
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      }
+    ]
+  }
