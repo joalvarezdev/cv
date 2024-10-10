@@ -6,7 +6,7 @@
       "email": "alvarez.joaquinez@gmail.com",
       "phone": "(+54) 223 6680512",
       "url": "",
-      "summary": "+3 años de experiencia como Desarrollador Backend. Siempre estoy buscando nuevos retos y oportunidades de aprendizaje que me permitan crecer profesionalmente y contribuir al éxito de los proyectos en los que trabajo.",
+      "summary": "+2 años de experiencia como Desarrollador Backend. Siempre estoy buscando nuevos retos y oportunidades de aprendizaje que me permitan crecer profesionalmente y contribuir al éxito de los proyectos en los que trabajo.",
       "location": {
         "address": "",
         "postalCode": "7600",
@@ -34,29 +34,7 @@
         "url": "https://infosis.tech/",
         "startDate": "2022-05-01",
         "endDate": null,
-        "summary": "Una descripcion del trabajo realizado en la empresa",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Infosis",
-        "position": "Backend Developer",
-        "url": "https://infosis.tech/",
-        "startDate": "2022-05-01",
-        "endDate": null,
-        "summary": "Una descripcion del trabajo realizado en la empresa",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Infosis",
-        "position": "Backend Developer",
-        "url": "https://infosis.tech/",
-        "startDate": "2022-05-01",
-        "endDate": null,
-        "summary": "Una descripcion del trabajo realizado en la empresa",
+        "summary": "Me desempeño como desarrollador backend generalmente en Java. En mi primer año realice mantenimiento exclusivo de ZeusCloudERP, luego de tomar experiencia realizamos una integración con Fiserv para auditoria de facturación, implementamos servicios SOAP de AFIP(facturación electrónica Argentina). Actualmente me encuentro actualizando aplicaciones propias de la empresa a versiones nuevas de Spring Boot(3.x.x) y Java 21.",
         "highlights": [
           "Started the company"
         ]
@@ -177,72 +155,6 @@
       "reference": "Reference…"
     }],
     "projects": [
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
-      {
-        "name": "Project",
-        "startDate": "2019-01-01",
-        "isActive": true,
-        "endDate": "2021-01-01",
-        "description": "Description...",
-        "highlights": [
-          "Won award at AIHacks 2016"
-        ],
-        "url": "https://project.com/"
-      },
       {
         "name": "Project",
         "startDate": "2019-01-01",
